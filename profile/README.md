@@ -11,3 +11,4 @@ Check out these pages for additional Fuse projects to explore.
 [![NPM package](https://img.shields.io/npm/v/fuse-sdk.svg?style=flat-square)](https://www.npmjs.com/package/fuse-sdk)
 [![Slack](https://img.shields.io/badge/chat-on%20slack-blue.svg?style=flat-square)](https://slackcommunity.fusetools.com/)
 [![Financial Contributors on Open Collective](https://opencollective.com/fuse-open/all/badge.svg?label=financial+contributors&style=flat-square)](https://opencollective.com/fuse-open)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)

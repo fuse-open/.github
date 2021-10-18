@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-This page is part of the [Fuse Open](https://fuseopen.com) project, providing tools for building high-quality apps on Android, iOS and more.
+This page is part of the [Fuse Open](https://fuseopen.com) project, providing tools for building high-quality apps on Android, iOS and more
 
 * [Fuse Apps](https://github.com/fuse-apps) - Apps, experiments and other projects made with Fuse
 * [Fuse Modules](https://github.com/fuse-modules) - Extra functionality making Fuse even more powerful
